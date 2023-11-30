@@ -14,7 +14,7 @@ This is a minimalist Netflix clone built using React. It provides a sleek interf
 
 - React
 - TMDB API for movie and TV show data
-- tailwind for styling
+- Tailwind for styling
   
 
 <img width="1440" alt="Screenshot 2023-11-30 at 7 15 08 PM" src="https://github.com/nabinkdl/Project12-Netflix/assets/105159506/99e05f58-3372-474f-93e3-61e7a99b7021">
