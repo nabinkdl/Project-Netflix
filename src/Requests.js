@@ -1,6 +1,6 @@
 // e578a80ccf0e404eef853ca09ef14ab0
 
-const key = import.meta.env.VITE_TMDB_API || process.env.VITE_TMDB_API;
+const key = import.meta.env.VITE_TMDB_API 
 
 //test
 const requests = 
@@ -13,3 +13,4 @@ const requests =
     };
 
 export default requests
+
